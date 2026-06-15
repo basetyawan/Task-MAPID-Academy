@@ -1,0 +1,1256 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-15T05:06:10Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939019118",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Masjid Sucofindo",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8399585,
+          -1.2570488
+        ]
+      },
+      "id": "node/939019118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/939067188",
+        "amenity": "hospital",
+        "name": "Dokter Praktek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8381163,
+          -1.2548966
+        ]
+      },
+      "id": "node/939067188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2434778588",
+        "amenity": "place_of_worship",
+        "denomination": "adventist",
+        "name": "GMAHK Gunung Pasir",
+        "opening_hours": "Sa 08:00-12:00,17:00-19:00",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8362124,
+          -1.2681325
+        ]
+      },
+      "id": "node/2434778588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2434829349",
+        "amenity": "school",
+        "name": "SD Inpres Gunung Pasir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8343124,
+          -1.2669539
+        ]
+      },
+      "id": "node/2434829349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3098094229",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Masjid Al Ikhwan",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8109533,
+          -1.274931
+        ]
+      },
+      "id": "node/3098094229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238944069",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "name": "Masjid Al-Ikhlash",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8763979,
+          -1.2054172
+        ]
+      },
+      "id": "node/3238944069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238944078",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8825242,
+          -1.119258
+        ]
+      },
+      "id": "node/3238944078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238944079",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.882621,
+          -1.1302827
+        ]
+      },
+      "id": "node/3238944079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238944080",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8773213,
+          -1.1527869
+        ]
+      },
+      "id": "node/3238944080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238944088",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "name": "Masjid Nurul A'la",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8800971,
+          -1.1378349
+        ]
+      },
+      "id": "node/3238944088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238944092",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "name": "Masjid Nurul Masful",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8863361,
+          -1.1036013
+        ]
+      },
+      "id": "node/3238944092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238959085",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "catholic",
+        "name": "Gereja Katolik Kristus Bangkit",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8775569,
+          -1.1505257
+        ]
+      },
+      "id": "node/3238959085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238959099",
+        "amenity": "school",
+        "name": "Pondok Pesantren Syekh Muhammad Arsyad Al-Banjary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8768763,
+          -1.1134082
+        ]
+      },
+      "id": "node/3238959099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238959105",
+        "amenity": "school",
+        "name": "SMA Negeri 9 Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8767118,
+          -1.1459159
+        ]
+      },
+      "id": "node/3238959105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238959107",
+        "amenity": "school",
+        "name": "SMP Negeri 17 Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8770837,
+          -1.141327
+        ]
+      },
+      "id": "node/3238959107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3239061539",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "name": "Langgar Al-Qolam",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8707641,
+          -1.2083603
+        ]
+      },
+      "id": "node/3239061539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3272721061",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Masjid Ar-Raudhah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8611544,
+          -1.272362
+        ]
+      },
+      "id": "node/3272721061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3277642074",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Masjid Nurul Ibadah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8282151,
+          -1.2703239
+        ]
+      },
+      "id": "node/3277642074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3683208527",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "name": "Masjid Nurul A'la",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8304492,
+          -1.2331015
+        ]
+      },
+      "id": "node/3683208527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781498210",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "1",
+        "capacity:persons": "100",
+        "name": "Masjid Jabal Rahmah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8291015,
+          -1.2269817
+        ]
+      },
+      "id": "node/3781498210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781603301",
+        "addr:full": "Jl. Adil Makmur Balikpapan",
+        "amenity": "fire_station",
+        "building": "yes",
+        "building:levels": "2",
+        "capacity:persons": "30",
+        "name": "Badan Penanggulangan Bencana Daerah Balikpapan Barat",
+        "website": "https://balikpapan.go.id/instansi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8251081,
+          -1.2343395
+        ]
+      },
+      "id": "node/3781603301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781603305",
+        "addr:full": "Jl. Adil Makmur Balikpapan",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "1",
+        "capacity:persons": "100",
+        "name": "Masjid Nurul Iman",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8233967,
+          -1.2337416
+        ]
+      },
+      "id": "node/3781603305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781732780",
+        "addr:full": "Jl. Gunung 1, Asrama Bukit",
+        "addr:postcode": "76131",
+        "addr:street": "Kebun Sayur",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "1",
+        "capacity:persons": "100",
+        "name": "Langgar As Sadiqin",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.821689,
+          -1.2325976
+        ]
+      },
+      "id": "node/3781732780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781732781",
+        "addr:full": "Jl. Adil Makmur",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "2",
+        "capacity:persons": "1000",
+        "name": "Masjid Jami As Siddiq",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8225775,
+          -1.2335435
+        ]
+      },
+      "id": "node/3781732781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781738898",
+        "addr:full": "Jl.Sidomulyo Rt.2 No.56 Telp 0542-733573",
+        "amenity": "clinic",
+        "building": "yes",
+        "building:levels": "1",
+        "capacity:persons": "50",
+        "name": "Puskesmas Sidomulyo",
+        "rooms": "10",
+        "website": "http://dkk.balikpapan.go.id/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8237578,
+          -1.2298868
+        ]
+      },
+      "id": "node/3781738898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3781983360",
+        "addr:full": "Jl. Pandansari no.137 telp 741933",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "1",
+        "capacity:persons": "1000",
+        "name": "Masjid Manuntung",
+        "religion": "muslim",
+        "website": "https://www.madinatuliman.com/2/mi/2/574-info-lokasi-masjid-balikpapan,-pondok-pesantren-dan-yayasan-balikpapan.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8253188,
+          -1.2372917
+        ]
+      },
+      "id": "node/3781983360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782488827",
+        "addr:full": "Jl. Bukit Pelajar V Sidodadi",
+        "amenity": "school",
+        "building": "yes",
+        "building:levels": "1",
+        "capacity:persons": "200",
+        "name": "Madrasah Babus Salam",
+        "operator:type": "private",
+        "school:type_idn": "SD/MI",
+        "website": "http://disdik.balikpapan.go.id/web/data-sekolah/sd-mi.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8197654,
+          -1.2258407
+        ]
+      },
+      "id": "node/3782488827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782488830",
+        "addr:full": "Jl. Wolter Monginsidi",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "2",
+        "capacity:persons": "600",
+        "name": "Masjid At Taufiq",
+        "religion": "muslim",
+        "website": "https://www.madinatuliman.com/2/mi/2/574-info-lokasi-masjid-balikpapan,-pondok-pesantren-dan-yayasan-balikpapan.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8171795,
+          -1.2225348
+        ]
+      },
+      "id": "node/3782488830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782488832",
+        "addr:full": "Jl. Sultan Hasanuddin rt.10",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "1",
+        "capacity:persons": "100",
+        "name": "Masjid Darul Ulum",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8149334,
+          -1.2257525
+        ]
+      },
+      "id": "node/3782488832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782488833",
+        "addr:full": "Jl. AMD Gunung Empat",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "1",
+        "capacity:persons": "400",
+        "name": "Masjid Haya Alas Sholah",
+        "religion": "muslim",
+        "website": "https://www.madinatuliman.com/2/mi/2/574-info-lokasi-masjid-balikpapan,-pondok-pesantren-dan-yayasan-balikpapan.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8248389,
+          -1.2265591
+        ]
+      },
+      "id": "node/3782488833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782488835",
+        "addr:full": "Jl. Sultan Hasanuddin",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "2",
+        "capacity:persons": "1000",
+        "name": "Masjid Jami Ummi Maryam Madinatul Ilmi",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8126901,
+          -1.224857
+        ]
+      },
+      "id": "node/3782488835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3782488836",
+        "addr:full": "Jl. Letjen Suprapto",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "2",
+        "capacity:persons": "200",
+        "name": "Masjid Syamsul Falah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8140332,
+          -1.232665
+        ]
+      },
+      "id": "node/3782488836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3885803141",
+        "amenity": "fire_station",
+        "note": "was points=Fire Brigade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8273805,
+          -1.252833
+        ]
+      },
+      "id": "node/3885803141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100806189",
+        "addr:housenumber": "GSJA Batu Ampar Balikpapan",
+        "addr:street": "Jl.Brantas",
+        "amenity": "place_of_worship",
+        "name": "GSJA Batu Ampar Balikpapan",
+        "opening_hours": "Su 09:30-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.846502,
+          -1.2142589
+        ]
+      },
+      "id": "node/4100806189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263603030",
+        "amenity": "place_of_worship",
+        "name": "Masjid Miftaahul Khoyr",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8116964,
+          -1.2752677
+        ]
+      },
+      "id": "node/4263603030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263603034",
+        "amenity": "place_of_worship",
+        "name": "Mushola",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8220908,
+          -1.274063
+        ]
+      },
+      "id": "node/4263603034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4263603121",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8280487,
+          -1.271667
+        ]
+      },
+      "id": "node/4263603121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4380608683",
+        "amenity": "school",
+        "name": "SMA Muhammadiyah 2 Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8872082,
+          -1.1906067
+        ]
+      },
+      "id": "node/4380608683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4380608684",
+        "amenity": "school",
+        "name": "SMP Muhammadiyah 3 Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8875757,
+          -1.1900382
+        ]
+      },
+      "id": "node/4380608684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698424990",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Tirta Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8772093,
+          -1.2418337
+        ]
+      },
+      "id": "node/4698424990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4906190221",
+        "amenity": "place_of_worship",
+        "name": "Masjid Da'watul-Islam",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.883778,
+          -1.1821316
+        ]
+      },
+      "id": "node/4906190221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5283079012",
+        "amenity": "place_of_worship",
+        "name": "Masjid Al-Huda",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.9454745,
+          -1.2322623
+        ]
+      },
+      "id": "node/5283079012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5514348107",
+        "amenity": "place_of_worship",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8104051,
+          -1.2235026
+        ]
+      },
+      "id": "node/5514348107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5938211089",
+        "addr:street": "Jl. Sulawesi",
+        "amenity": "school",
+        "opening_hours": "Mo-Sa 06:30-16:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8386235,
+          -1.2443068
+        ]
+      },
+      "id": "node/5938211089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6598407298",
+        "amenity": "university",
+        "name": "Gedung Workshop Sipil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.886599,
+          -1.2029457
+        ]
+      },
+      "id": "node/6598407298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6598407299",
+        "amenity": "university",
+        "name": "Gedung Direktorat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8847751,
+          -1.202131
+        ]
+      },
+      "id": "node/6598407299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611151385",
+        "addr:street": "Jl.Telindung Baru 2",
+        "amenity": "place_of_worship",
+        "name": "Mushalla At Taubah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8378054,
+          -1.2166227
+        ]
+      },
+      "id": "node/6611151385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611151386",
+        "amenity": "place_of_worship",
+        "name": "Masjid Jami Al Azhar",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8411781,
+          -1.2196562
+        ]
+      },
+      "id": "node/6611151386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6611151388",
+        "amenity": "school",
+        "name": "Sekolah Dasar Negeri 020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8398644,
+          -1.2182505
+        ]
+      },
+      "id": "node/6611151388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7330415684",
+        "addr:city": "Kota Balikpapan",
+        "addr:housenumber": "30",
+        "addr:street": "Jalan Mayjen Sutoyo",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "RSUD Beriman Balikpapan",
+        "operator": "Andi Herman",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8472077,
+          -1.2632244
+        ]
+      },
+      "id": "node/7330415684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8187976561",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Omni Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.872623,
+          -1.2431814
+        ]
+      },
+      "id": "node/8187976561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8187993870",
+        "amenity": "place_of_worship",
+        "name": "Surau Alkah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8503553,
+          -1.2118845
+        ]
+      },
+      "id": "node/8187993870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9496806369",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "UGD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8347214,
+          -1.2430446
+        ]
+      },
+      "id": "node/9496806369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9791447930",
+        "addr:city": "Balikpapan",
+        "addr:street": "Gang Damai I",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "Masjid Addiniyyah",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8415549,
+          -1.2144461
+        ]
+      },
+      "id": "node/9791447930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9901566107",
+        "amenity": "school",
+        "name": "SMA Kartika V-1 Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8240636,
+          -1.2743967
+        ]
+      },
+      "id": "node/9901566107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9903449456",
+        "amenity": "school",
+        "name": "Artha 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8624432,
+          -1.2437283
+        ]
+      },
+      "id": "node/9903449456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9909215333",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Karunia Medical Clinic Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8671309,
+          -1.2416918
+        ]
+      },
+      "id": "node/9909215333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9909255948",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "SMEC Klinik Spesialis Mata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8625464,
+          -1.2430831
+        ]
+      },
+      "id": "node/9909255948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910766076",
+        "amenity": "music_school",
+        "name": "Purwa Caraka Music Studio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8624564,
+          -1.2426972
+        ]
+      },
+      "id": "node/9910766076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9910823883",
+        "amenity": "prep_school",
+        "name": "Golden Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8724285,
+          -1.2435682
+        ]
+      },
+      "id": "node/9910823883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10027570421",
+        "amenity": "school",
+        "name": "Sekolah Alam Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8873684,
+          -1.2304443
+        ]
+      },
+      "id": "node/10027570421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12047275430",
+        "addr:city": "Balikpapan",
+        "addr:district": "Balikpapan Utara",
+        "addr:province": "Kalimantan Timur",
+        "addr:street": "Jalan Poros Samarinda - Balikpapan",
+        "addr:subdistrict": "Graha Indah",
+        "amenity": "university",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Gedung TRKJJ",
+        "operator": "Politeknik Negeri Balikpapan",
+        "operator:type": "university"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8870791,
+          -1.2024854
+        ]
+      },
+      "id": "node/12047275430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12049164450",
+        "addr:city": "Balikpapan",
+        "addr:district": "Balikpapan Utara",
+        "addr:neighbourhood": "M. T. Haryono",
+        "addr:province": "East Borneo",
+        "addr:subdistrict": "Batu Ampar",
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8683828,
+          -1.2259501
+        ]
+      },
+      "id": "node/12049164450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12256460383",
+        "addr:housenumber": "58",
+        "addr:street": "Jl. Mulawarman Gang SMP 13",
+        "amenity": "school",
+        "name": "SMP Negeri 13 Balikpapan",
+        "opening_hours": "Mo-Fr 07:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.002924,
+          -1.1633645
+        ]
+      },
+      "id": "node/12256460383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12422076901",
+        "amenity": "school",
+        "name": "SMP Negeri 7 Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8566933,
+          -1.2634998
+        ]
+      },
+      "id": "node/12422076901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13115356401",
+        "addr:postcode": "76126",
+        "addr:street": "Jalan Abdul Wahab Syahranie",
+        "amenity": "university",
+        "name": "Universitas Tri Dharma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8439828,
+          -1.2189072
+        ]
+      },
+      "id": "node/13115356401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13139867101",
+        "addr:street": "Jalan AMD Gunung Empat",
+        "amenity": "clinic",
+        "name": "Posyandu Gatra Mulya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8245307,
+          -1.22101
+        ]
+      },
+      "id": "node/13139867101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13864845901",
+        "addr:street": "Jalan BTN Guru Gunung Empat",
+        "amenity": "place_of_worship",
+        "check_date": "2026-05-23",
+        "name": "Aula Masjid Asy-Syifa",
+        "religion": "muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.8270921,
+          -1.2195849
+        ]
+      },
+      "id": "node/13864845901"
+    }
+  ]
+}

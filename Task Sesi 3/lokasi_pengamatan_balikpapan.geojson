@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "lokasi_pengamatan_balikpapan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32750" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "nama": "Titik Pengamatan Kantor Wali Kota Balikpapan", "jenis": "Kantor Pemerintahan", "catatan": "Lokasi pengamatan fasilitas publik" }, "geometry": { "type": "Point", "coordinates": [ 480823.623570246214513, 9858935.152695221826434 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nama": "Titik Pengamatan RSUD Balikpapan", "jenis": "Fasilitas Kesehatan", "catatan": "Lokasi pengamatan fasilitas publik" }, "geometry": { "type": "Point", "coordinates": [ 483042.805281696259044, 9860326.175940727815032 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nama": "Titik Pengamatan Plaza Balikpapan", "jenis": "Pusat Perbelanjaan", "catatan": "Lokasi pengamatan fasilitas publik" }, "geometry": { "type": "Point", "coordinates": [ 482176.973832436837256, 9858738.305090025067329 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nama": "Titik Pengamatan Pelabuhan Semayang", "jenis": "Transportasi Umum", "catatan": "Lokasi pengamatan fasilitas publik" }, "geometry": { "type": "Point", "coordinates": [ 478364.087114549125545, 9859290.884763810783625 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nama": "Titik Pengamatan Bandara SAMS Seppinggan", "jenis": "Transportasi Umum", "catatan": null }, "geometry": { "type": "Point", "coordinates": [ 488789.057079521531705, 9860580.460975077003241 ] } }
+]
+}
