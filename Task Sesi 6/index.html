@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Map Transportasi Jakarta</title>
+    <style>
+        /* CSS RESET & BASE STYLES */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        body {
+            background-color: #f8fafc;
+            color: #334155;
+            line-height: 1.6;
+        }
+
+        /* RESPONSIVE NAVBAR */
+        header {
+            background-color: #1e3a8a;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        nav {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+        }
+        .logo {
+            color: #ffffff;
+            font-weight: bold;
+            font-size: 1.25rem;
+        }
+        nav ul {
+            display: flex;
+            list-style: none;
+            gap: 1.5rem;
+        }
+        nav a {
+            color: #93c5fd;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        nav a:hover, nav a.active {
+            color: #ffffff;
+        }
+
+        /* MAIN LAYOUT */
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+            min-height: 80vh;
+        }
+        .hero {
+            background: linear-gradient(135deg, #1e40af, #3b82f6);
+            color: white;
+            padding: 3rem 2rem;
+            border-radius: 0.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        .hero h3 {
+            font-weight: 400;
+            color: #bfdbfe;
+        }
+
+        /* CONTENT SECTION */
+        section {
+            background: white;
+            padding: 2rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            margin-bottom: 2rem;
+        }
+        section h2 {
+            color: #1e3a8a;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 0.5rem;
+        }
+
+        /* RESPONSIVE TABLE */
+        .table-container {
+            overflow-x: auto;
+            margin-top: 1rem;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 500px;
+        }
+        th, td {
+            padding: 0.75rem 1rem;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        th {
+            background-color: #f1f5f9;
+            color: #1e3a8a;
+            font-weight: 600;
+        }
+        tr:hover {
+            background-color: #f8fafc;
+        }
+
+        /* FOOTER */
+        footer {
+            background-color: #0f172a;
+            color: #94a3b8;
+            text-align: center;
+            padding: 1.5rem;
+            font-size: 0.875rem;
+            margin-top: 4rem;
+        }
+
+        /* RESPONSIVE MEDIA QUERIES */
+        @media (max-width: 768px) {
+            nav {
+                flex-direction: column;
+                gap: 1rem;
+                text-align: center;
+            }
+            .hero h1 {
+                font-size: 1.75rem;
+            }
+            section {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <div class="logo">Code the Map, Decode The Future</div>
+            <ul>
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="map.html">Map</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="hero">
+            <h1>Map Transportasi DKI Jakarta</h1>
+            <h3>Website rute transportasi publik berbasis WebGIS interaktif</h3>
+        </div>
+        
+        <section>
+            <h2>Tentang Proyek</h2>
+            <p>Proyek pengembangan platform sistem informasi geografis rute transportasi ini dirancang untuk memetakan visualisasi interaktif multimoda di DKI Jakarta. Melalui pemanfaatan data spasial terpadu, platform ini memudahkan masyarakat dalam merencanakan perjalanan efisien menggunakan modalitas transportasi terintegrasi seperti <i>Transjakarta</i>, <i>MRT</i>, <i>LRT</i>, dan <i>KRL Commuter Line</i>.</p>
+        </section>
+
+        <section>
+            <h2>Daftar Integrasi Moda</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Kode</th>
+                            <th>Nama Transportasi</th>
+                            <th>Keterangan Operasional</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td><strong>TJ</strong></td>
+                            <td>Transjakarta</td>
+                            <td>Sistem Bus Rapid Transit (BRT) terpanjang di dunia.</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td><strong>MRT</strong></td>
+                            <td>Mass Rapid Transit Jakarta</td>
+                            <td>Moda transportasi berbasis rel cepat layang dan bawah tanah.</td>
+                        </tr>
+                        <tr>
+                            <td>3</td>
+                            <td><strong>LRT</strong></td>
+                            <td>Light Rail Transit</td>
+                            <td>Moda Lintas Rel Terpadu perkotaan pendukung area komuter.</td>
+                        </tr>
+                        <tr>
+                            <td>4</td>
+                            <td><strong>KRL</strong></td>
+                            <td>Kereta Rel Listrik</td>
+                            <td>Layanan kereta komuter wilayah Jabodetabek.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Code the Map. Decode the Future.</p>
+    </footer>
+
+</body>
+</html>
